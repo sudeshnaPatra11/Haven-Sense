@@ -686,7 +686,21 @@ The hardware prototype was assembled and tested with the available sensors. The 
 
 Remote GSM/SMS notification and dedicated O₂/CO₂ monitoring remain future development items.
 
----
+## My Contribution
+
+This was a group project. My primary contribution was the hardware
+implementation and prototype development.
+
+I worked on:
+- Sensor selection and hardware integration
+- ESP32 and sensor wiring
+- Breadboard prototyping and hardware testing
+- Integration of the RGB LED and other output components
+- Hardware-level debugging and troubleshooting
+- Understanding and testing the embedded software with the hardware
+
+I also studied and understood the main software flow, including sensor
+acquisition, threshold-based state detection, and output control.
 
 ## Author
 
